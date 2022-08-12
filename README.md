@@ -1,2 +1,2 @@
 # Stock-Prices
-Walmart Stock Prices using PySpark
+Walmart Stock Prices analysis using PySpark.
